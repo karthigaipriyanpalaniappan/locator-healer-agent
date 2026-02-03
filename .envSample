@@ -1,0 +1,12 @@
+# Gemini API Configuration
+GEMINI_API_KEY=********************** #Replace with your actual API key
+GEMINI_MODEL=gemini-2.5-flash
+
+# LLM Parameters
+LLM_TEMPERATURE=0.7
+LLM_MAX_TOKENS=1024
+LLM_TOP_P=0.9
+LLM_TOP_K=40
+
+# Application Settings
+DEBUG=True
